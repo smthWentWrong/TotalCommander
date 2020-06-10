@@ -1,0 +1,12 @@
+D:\Shell_v1.1\obj\Debug\Shell_v1._02.MainForm.resources
+D:\Shell_v1.1\obj\Debug\Shell_v1._02.Properties.Resources.resources
+D:\Shell_v1.1\obj\Debug\Shell_v1._02.ShellBrowser.resources
+D:\Shell_v1.1\obj\Debug\Shell_v1._02.UserControl.resources
+D:\Shell_v1.1\obj\Debug\Shell_v1.02.csproj.GenerateResource.cache
+D:\Shell_v1.1\obj\Debug\Shell_v1.02.csproj.CoreCompileInputs.cache
+D:\Shell_v1.1\bin\Debug\Shell_v1.02.exe.config
+D:\Shell_v1.1\bin\Debug\Shell_v1.02.exe
+D:\Shell_v1.1\bin\Debug\Shell_v1.02.pdb
+D:\Shell_v1.1\obj\Debug\Shell_v1.02.exe
+D:\Shell_v1.1\obj\Debug\Shell_v1.02.pdb
+D:\Shell_v1.1\obj\Debug\Shell_v1.02.csprojAssemblyReference.cache

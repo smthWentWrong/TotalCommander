@@ -1,0 +1,9 @@
+D:\Server\ReceiveFiles\bin\Debug\ReceiveFiles.exe
+D:\Server\ReceiveFiles\bin\Debug\ReceiveFiles.pdb
+D:\Server\ReceiveFiles\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Server\ReceiveFiles\obj\Debug\ReceiveFiles.Form1.resources
+D:\Server\ReceiveFiles\obj\Debug\ReceiveFiles.Properties.Resources.resources
+D:\Server\ReceiveFiles\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Server\ReceiveFiles\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Server\ReceiveFiles\obj\Debug\ReceiveFiles.exe
+D:\Server\ReceiveFiles\obj\Debug\ReceiveFiles.pdb
